@@ -33,11 +33,24 @@
 ![CImprovement](http://kestrelcg.com/wp-content/uploads/2016/05/4-type-circle.png)
 ![CI](http://www.360logica.com/blog/wp-content/uploads/2014/06/Continuous-Integration.png)
 ![Lean startup](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Proceso_Lean_Startup.jpg/220px-Proceso_Lean_Startup.jpg)
+
++++
+
+## ¿Qué comparten las metodologías
+
++++
+
+* Iteraciones
+* Simplificar
+* Medir
+* Automatizar
+* Enfocarse
+
 ---
 
 ![CI](https://www.soasta.com/wp-content/uploads/2016/01/infitiny-circle_v1.png)
 
-## ¿En qué nos enfocamos?
+## ¿En qué nos enfocamos?, ¿Qué fases entregan valor?
 
 +++
 
@@ -50,9 +63,10 @@
 * Repositorio
 * Un vaso de agua (café)
 * Servidor de CI
+* SO
 * Editor de texto
 * Compilador/Intérprete
-* Framework
+* Frameworks
 * Helpers (debug, reviewers, deploy, monitor, sniffers)
 
 ---
@@ -61,4 +75,14 @@
 
 +++
 
-* 
+* Proceso de CI
+* El servidor de CI
+* Pruebas automatizadas
+* Deployment
+* Cómo llegar a CD
+
+---
+
+# Proceso de CI
+
++++
