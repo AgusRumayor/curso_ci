@@ -32,7 +32,7 @@
 ![XP](https://7bsp1018.wikispaces.com/file/view/Picture5.jpg/302332336/614x274/Picture5.jpg)
 ![CImprovement](http://kestrelcg.com/wp-content/uploads/2016/05/4-type-circle.png)
 ![CI](http://www.360logica.com/blog/wp-content/uploads/2014/06/Continuous-Integration.png)
-![Lean startup](http://minibego.com/wp-content/uploads/2012/07/startup-feedback-loop1.png)
+![Lean startup](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Proceso_Lean_Startup.jpg/220px-Proceso_Lean_Startup.jpg)
 ---
 
 ![CI](https://www.soasta.com/wp-content/uploads/2016/01/infitiny-circle_v1.png)
