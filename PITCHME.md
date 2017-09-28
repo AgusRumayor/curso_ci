@@ -142,14 +142,27 @@ varias iteraciones de los checklists anteriores. Los beneficios de aplicar cualq
 
 +++
 
-
+## ¿Qué es un ambiente(SW)?
 ## ¿Para qué nos sirven los ambientes?
+## ¿Qué tipos de ambientes existen?
 
 +++
+
+* ¿Dónde se corren las pruebas de aceptación?
+* ¿Pruebas de integración?
+* ¿Unitarias?
+* ¿Quién depura un bug?
+* ¿Cada cuándo pasamos de pruebas a producción?
+* Demo? Stage? Testing? Mirror?
+* Requiero un ambiente aislado, ¿a quién le hablo?
 
 ---
 
 # El servidor de CI
+
++++
+
+![one button](https://meblogwritegood.files.wordpress.com/2011/12/screen-shot-2011-12-12-at-4-12-52-pm.png)
 
 +++
 
