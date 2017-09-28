@@ -19,7 +19,7 @@
 +++
 
 ## ¿Qué delegarías?
-![lazy](https://escapetoreality.files.wordpress.com/2014/11/lazy-homer.jpg)
+![lazy](https://www.theproducersperspective.com/wp-content/uploads/2013/02/Homer-lazy.jpg)
 
 ---
 
@@ -142,6 +142,7 @@ varias iteraciones de los checklists anteriores. Los beneficios de aplicar cualq
 
 +++
 
+
 ## ¿Para qué nos sirven los ambientes?
 
 +++
@@ -152,13 +153,35 @@ varias iteraciones de los checklists anteriores. Los beneficios de aplicar cualq
 
 +++
 
+## Ejercicio run
+
++++
+
+## Ejercicio selenium
+
 ---
 
 # Pruebas automatizadas
 
++++
+
+## Ejercicio doctest
+
++++
+
+## Ejercicio gherkin
+
++++
+
+## Ejercicio selenium automatizado
+
 ---
 
 # Deployment
+
++++
+
+## ¿Qué hacemos durante un despliegue?
 
 ---
 
