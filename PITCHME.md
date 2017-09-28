@@ -3,7 +3,7 @@
 
 ---
 
-![Programador](https://cdn.dribbble.com/users/74133/screenshots/1888531/avatar-cool_1x.jpg)
+![Programador](https://i.pinimg.com/originals/58/92/71/589271a0fb229ddded08ba0d22451864.jpg)
 
 +++
 
@@ -12,11 +12,14 @@
 ## ¿Qué es lo más divertido?
 ## ¿Estás orgulloso de ser desarrollador?
 
----
++++
 
 ![CI](https://www.imobdevtech.com/wp-content/uploads/2014/07/Software-Process-Models-for-Project-Development-550x552.png)
 
++++
+
 ## ¿Qué delegarías?
+![lazy](https://escapetoreality.files.wordpress.com/2014/11/lazy-homer.jpg)
 
 ---
 
@@ -128,8 +131,39 @@ varias iteraciones de los checklists anteriores. Los beneficios de aplicar cualq
 
 ## Ejercicio automatizar deploy
 
++++
+
+## ¿Cómo puedo automatizar un deploy?
+(Cambio instantáneo a producción)
+
 ---
 
 # Ambientes
 
 +++
+
+## ¿Para qué nos sirven los ambientes?
+
++++
+
+---
+
+# El servidor de CI
+
++++
+
+---
+
+# Pruebas automatizadas
+
+---
+
+# Deployment
+
+---
+
+# Cómo llegar a CD
+
++++
+
+![CD](https://media.tenor.com/images/836a2741cd714b8ade04d254850ffe8b/tenor.gif)
