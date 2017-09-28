@@ -76,6 +76,7 @@
 +++
 
 * Proceso de CI
+* Ambientes
 * El servidor de CI
 * Pruebas automatizadas
 * Deployment
@@ -86,3 +87,5 @@
 # Proceso de CI
 
 +++
+
+![ci](ci.png)
