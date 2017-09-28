@@ -89,3 +89,47 @@
 +++
 
 ![ci](ci.png)
+
++++
+
+## ¿Qué es lo mínimo para lograr CI?
+
++++
+
+1. Cambios/Desarrollos granulares
+2. Repositorio único para el proyecto*
+3. Automatizar pruebas/builds
+4. Tener una máquina de integración
+
++++
+
+## Después del primer checklist...
+
++++
+
+1. Arreglar builds rotos
+2. Mantener el build en cuestión de pocos minutos
+3. Probar en clones de producción
+4. Todos tener el proyecto a la mano (ejecutable...)
+5. Todos deben de ver qué es lo que está sucediendo
+
++++
+
+## Por último...
+
++++
+
+1. Automatizar el deployment
+
+Automatizar el despliegue requere mucho esfuerzo y maduración del proyecto, es importante tener experiencia y 
+varias iteraciones de los checklists anteriores. Los beneficios de aplicar cualquier metodología ágil solo se ve después de automatizar tareas
+
++++
+
+## Ejercicio automatizar deploy
+
+---
+
+# Ambientes
+
++++
