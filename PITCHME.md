@@ -14,7 +14,7 @@
 
 ---
 
-![CI](https://www.soasta.com/wp-content/uploads/2016/01/infitiny-circle_v1.png)
+![CI](https://www.imobdevtech.com/wp-content/uploads/2014/07/Software-Process-Models-for-Project-Development-550x552.png)
 
 ## ¿Qué delegarías?
 
