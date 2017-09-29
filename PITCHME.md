@@ -136,6 +136,11 @@ varias iteraciones de los checklists anteriores. Los beneficios de aplicar cualq
 ## ¿Cómo puedo automatizar un deploy?
 (Cambio instantáneo a producción)
 
++++
+
+### Ejercicio dev-prod
+(Intro a automatización)
+
 ---
 
 # Ambientes
@@ -153,8 +158,22 @@ varias iteraciones de los checklists anteriores. Los beneficios de aplicar cualq
 * ¿Unitarias?
 * ¿Quién depura un bug?
 * ¿Cada cuándo pasamos de pruebas a producción?
+* ¿Yo puedo pasar a producción o pido permiso?
 * Demo? Stage? Testing? Mirror?
 * Requiero un ambiente aislado, ¿a quién le hablo?
+
++++
+
+## Si dudaste o no pudiste responder las preguntas anteriores, tus ambientes carecen de limitación
+
++++
+
+## ¿Cuánto dura una persona nueva en poner código en producción?
+## ¿Qué hago si mi computadora deja de funcionar?
+
++++
+
+## Ejercicio vagrant
 
 ---
 
